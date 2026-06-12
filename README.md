@@ -1,5 +1,7 @@
 # Flash Sale Ticketing System
 
+Created in colloboration with @chao-dotcom
+
 ⚡ A distributed flash-sale ticketing platform that guarantees zero overselling — designed for real-world, high-concurrency e-commerce challenges.
 
 In flash sales, millions of users compete for limited inventory. This system ensures fairness, performance, and reliability — built using Redis, Kafka, and Node.js microservices.
